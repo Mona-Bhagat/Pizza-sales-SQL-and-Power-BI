@@ -1,8 +1,11 @@
 
-![pizza capture](https://github.com/Mona-Bhagat/Pizza-sales-SQL-and-Power-BI/assets/148805047/b29e6e8c-3d3d-4145-acc3-22bd87a227d7)
+
 
 # Project Overview
 This data aims to help Pizza firms visualize various aspects of their Pizza sales data to gain insights and understand key trends.
+
+![pizza capture](https://github.com/Mona-Bhagat/Pizza-sales-SQL-and-Power-BI/assets/148805047/205c97a2-11cd-4d12-87b7-0bb024cad76f)
+
 
 # Data Sources
 Sales Data: The primary dataset used for this analysis is the "pizza_sales" file, which contains detailed information about each sale made by the company.
@@ -33,7 +36,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 Functions used - Cast, Datename, Distinct, Group by, Order by, Decimal
 
 
-![Capture pizza code](https://github.com/Mona-Bhagat/Pizza-sales-SQL-and-Power-BI/assets/148805047/7c6f8c16-1a74-4aff-a800-7336f497cf02)
+![Capture pizza code](https://github.com/Mona-Bhagat/Pizza-sales-SQL-and-Power-BI/assets/148805047/52bf19e9-75c1-49ec-a62a-a435e5627f0f)
+
 
 
 # Results/Findings
